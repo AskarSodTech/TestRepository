@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 
 
 public class HomeFragment extends Fragment {
+    String a;
 
     public HomeFragment() {
         // Required empty public constructor
