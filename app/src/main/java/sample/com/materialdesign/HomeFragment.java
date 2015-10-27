@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 
 
 public class HomeFragment extends Fragment {
-    String a="check";
+    String a="check32";
 
     public HomeFragment() {
         // Required empty public constructor
