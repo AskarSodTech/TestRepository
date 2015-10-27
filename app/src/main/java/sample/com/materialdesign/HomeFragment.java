@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 
 
 public class HomeFragment extends Fragment {
-    String a;
+    String a="check";
 
     public HomeFragment() {
         // Required empty public constructor
